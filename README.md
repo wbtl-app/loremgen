@@ -1,5 +1,14 @@
-# loremgen
+# Lorem Generator
 
-A wbtl.app tool.
+Generate placeholder text (lorem ipsum, random words, names).
 
-Visit: https://loremgen.wbtl.app
+https://loremgen.wbtl.app
+
+## Output
+
+Production files are in the `dist/` folder:
+- `dist/index.html` - Main application
+
+## Deploy
+
+Copy the contents of `dist/` to any static hosting service.
